@@ -7,6 +7,11 @@
 ![figure6](https://github.com/GuoshengKang/BS-APM/blob/master/images/businessrules.png)
 <br/><br/><br/>
 
+### <center>**Synchronizations**</center>
+####  <center>**3 transiiton synchronizations and 2 state synchronizations**</center>
+![figure6](https://github.com/GuoshengKang/BS-APM/blob/master/images/synchronizations.png)
+<br/><br/><br/>
+
 ### <center>Figure 7. The derived workflow net of the artifact-centric business process model in Figure 6</center>
 ![figure7](https://github.com/GuoshengKang/BS-APM/blob/master/images/figure7.png)
 <br/><br/><br/>
