@@ -1,4 +1,4 @@
-## <center>Case Study</center>##
+## <center>Case Study</center>
 ![figure6](https://github.com/GuoshengKang/BS-APM/blob/master/images/figure6.png)
 
 
