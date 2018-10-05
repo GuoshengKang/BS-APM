@@ -9,7 +9,7 @@
 <center>Figure 8. The reachability graph of the derived workflow net in Figure 7</center>
 
 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= r_1 ">: Customer requests to make an Order o
+r_1: Customer requests to make an Order o
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=  \[Pre - condition:instate(o,init) \wedge {}^\neg defined(o.orderID) \wedge {}^\neg defined(o.customerName) \wedge {}^\neg defined(o.customerAddress)\]">
 
