@@ -1,5 +1,5 @@
 ## Welcome to MarkdownPad 2 ##
-![avatar](https://github.com/GuoshengKang/BS-APM/blob/master/images/figure1.eps)
+https://github.com/GuoshengKang/BS-APM/blob/master/images/figure1.eps
 
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 
