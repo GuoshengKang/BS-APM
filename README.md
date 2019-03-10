@@ -1,5 +1,5 @@
 This repository presents the complete description of the case study of the following paper:  
-**Guosheng Kang**, **Liqin Yang**, **Liang Zhang**, "***Verification of Behavioral Soundness for Artifact-centric Business Process Model with Synchronizations***".
+**Guosheng Kang**, **Liqin Yang**, **Liang Zhang**, "***Verification of Behavioral Soundness for Artifact-centric Business Process Model with Synchronizations***". **Future Generation Computer Systems, 2019. https://doi.org/10.1016/j.future.2019.03.012**
 
 References:  
 [1] S. YongchareonC. Liu. "A process view framework for artifact-centric business processes". On the Move to Meaningful Internet Systems: OTM 2010, Vol. No., pp. 26-43, 2010.  
